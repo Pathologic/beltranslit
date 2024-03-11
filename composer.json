@@ -1,0 +1,6 @@
+{
+  "name": "pathologic/beltranslit",
+  "autoload": {
+    "files": ["BelTranslit.php"]
+  }
+}
